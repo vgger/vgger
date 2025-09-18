@@ -1,4 +1,6 @@
-<img width="1526" height="352" alt="BANNERICE" src="https://github.com/user-attachments/assets/bbce5952-dd22-43b9-85bc-b08734dcbc42" />
+<a href="https://github.com/ICE-CORE-DEV" target="_blank">
+  <img width="1526" height="352" alt="BANNERICE" src="https://github.com/user-attachments/assets/bbce5952-dd22-43b9-85bc-b08734dcbc42" />
+</a>
 
 <p align="center">
   <strong style="font-size: 128px;">Welcome to ICE-CORE 👋</strong>
